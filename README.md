@@ -157,7 +157,7 @@ for (item of buttons) {
 ![OUTPUT](./output5.png)
 
 ## HTML VALIDATOR:
-![OUTPUT](./valid2.png)
+![HTML Validator](./valid2.png)
 
 
 ## Result:
